@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "89rE7niEM1eCGx40FWEz1wXzti1C/9znGj5Drrqgh8AkS2Wn93nBbGiwdNOXnCBTCXowti0F/Rcs8sfPEboPSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\VSCodeProjects\\TestWork\\TestWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
